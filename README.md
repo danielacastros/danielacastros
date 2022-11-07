@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3>Olá, meu nome é Daniela Castro 👋 (mas pode me chamar de Dani, se preferir)</h3>
 
-<!--
-**danielacastros/danielacastros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 29 anos e sou estudante de Análise e Desenvolvimento de Sistemas em fase de transição de carreiras. Antes de decidir entrar para o mundo da programação eu era Engenheira Civil, mas um breve contato com a área da tecnologia me fez perceber que esse é o meu lugar.
+Estou me preparando para no futuro ser uma Dev Full Stack, pois gosto muito de trabalhar tanto com front-end quanto com back-end.
 
-Here are some ideas to get you started:
+Quando não estou em frente ao computador gosto de viajar ✈, brincar com meus cachorros (Dobby 🐶 e Luna 🐾) e pedalar 🚲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando as tecnologias:
+➡ JavaScript 
+➡ HTML 
+➡ CSS 
+➡ Node.js 
+➡ TypeScript 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=danielacastro)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danielacastro13/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/daniicastro13/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/daniela.castro.54)
+
+<h2>Minhas habilidades</h2>
+
+![html](https://user-images.githubusercontent.com/105952842/200424582-4fd9cf1d-eca7-4709-80eb-ce8c87a39488.png) 
+![css3](https://user-images.githubusercontent.com/105952842/200424609-05249209-b076-4586-baec-81b7d077c5a1.png)
+![javascript](https://user-images.githubusercontent.com/105952842/200424524-b3e440c9-6151-46c3-beda-969501599c14.png)
+![node-js (1)](https://user-images.githubusercontent.com/105952842/200423887-d03f1304-ce32-488e-8e35-ca6a726b04ec.png)
