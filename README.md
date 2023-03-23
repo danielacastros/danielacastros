@@ -1,7 +1,6 @@
-<h3>Olá, meu nome é Daniela Castro 👋 (mas pode me chamar de Dani, se preferir)</h3>
+<h3>Olá, sou a Dani👋</h3>
 
-Tenho 30 anos e sou estudante de Análise e Desenvolvimento de Sistemas em fase de transição de carreiras. Antes de decidir entrar para o mundo da programação eu atuei como Engenheira Civil por 8 anos, mas um breve contato com a área da tecnologia me fez perceber que esse é o meu lugar.
-Estou me preparando para no futuro ser uma Dev Full Stack, pois gosto muito de trabalhar tanto com front-end quanto com back-end.
+Tenho 30 anos e sou estudante de Análise e Desenvolvimento de Sistemas em fase de transição de carreiras. Antes de decidir entrar para o mundo da programação eu atuei como Engenheira Civil por 8 anos. Estou me preparando para no futuro ser uma Dev Full Stack, pois tanto front-end quanto back-end são as áreas que mais gosto de fazer.
 
 Quando não estou em frente ao computador gosto de viajar ✈, brincar com meus cachorros (Dobby 🐶 e Luna 🐾) e pedalar 🚲
 
