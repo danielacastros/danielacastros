@@ -9,7 +9,9 @@ Atualmente estou estudando as tecnologias:
 ➡ HTML 
 ➡ CSS 
 ➡ Node.js 
-➡ TypeScript 
+➡ C#
+➡ .NET
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=danielacastro)
 
