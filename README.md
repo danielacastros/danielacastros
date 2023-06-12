@@ -11,6 +11,7 @@ Atualmente estou estudando as tecnologias:
 ➡ Node.js 
 ➡ C#
 ➡ .NET
+➡ SQL
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=danielacastro)
